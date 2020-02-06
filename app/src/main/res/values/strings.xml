@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">MovieApp</string>
+
+    <string name="title_home">Movie</string>
+
+    <string name="title_dashboard">TV Show</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+ <string name="date">Date</string>
+ <string name="popularity">Popularity</string>
+ <string name="overview">OVERVIEW</string>
+</resources>

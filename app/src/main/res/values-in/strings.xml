@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Aplikasi Film</string>
+
+    <string name="title_home">Film</string>
+
+    <string name="title_dashboard">Acara Tv</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date">Tanggal</string>
+    <string name="popularity">Popularitas</string>
+    <string name="overview">DESKRIPSI</string>
+
+</resources>
